@@ -1,0 +1,11 @@
+.Link-item {
+  display: inline-block;
+}
+
+.Link-item:not(:last-child) {
+  margin-right: 1rem;
+}
+
+.Link-item-link {
+  color: #61dafb;
+}
